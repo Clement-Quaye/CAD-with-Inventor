@@ -8,14 +8,15 @@
 <h2>Exercises:</h2>
 - In here I replicate drawing samples from the Internet.
 
-<h3> Diagrams </h3>
+<h2> Diagrams </h2>
 
-<h4> Exercise 1: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=KKbwf2a53bA&t=24s">(Youtube)</a>] </h4>
-<img src="https://drive.google.com/file/d/1cl0DHpZNDCSWmO0bD_ZMPUFDt4mXCIZ9/view?usp=sharing">
+<h3> Exercise 1: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=KKbwf2a53bA&t=24s">(Youtube)</a>] </h3>
+<img align="center" src="https://user-images.githubusercontent.com/67621550/218600325-63afa7b9-7d3c-4f7f-80e1-80fb58f1f75d.png">
 
-<h4> Exercise 2: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=bpW7m3LoCiY">(Youtube)</a>] </h4>
-<img src="https://drive.google.com/file/d/1GSsnj0coXHEMJiCZ-m00h4HJ9kXu-vsW/view?usp=sharing">
+<h3> Exercise 2: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=bpW7m3LoCiY">(Youtube)</a>] </h3>
+<img align="center" src="https://user-images.githubusercontent.com/67621550/218600326-ce517a2b-fd3e-4664-a7de-900fe419602f.png">
 
-<h4> Fidget Spinner: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=esQb-QJn77M&t=5s">(Youtube)</a>] </h4>
-<img src="https://drive.google.com/file/d/143Vhru0rXwCoS_E0NJCXbtOClCjfRwaA/view?usp=sharing">
+<h3> Fidget Spinner: [credits to CAD CAM Academy <a href="https://www.youtube.com/watch?v=esQb-QJn77M&t=5s">(Youtube)</a>] </h3>
+<img align="center" src="https://user-images.githubusercontent.com/67621550/218600322-0f06eb3b-78ee-477e-a90f-0f88b0fd8d17.png">
+
 
